@@ -1,3 +1,5 @@
+// declaring variables and constants
+
 package main
 
 import (

@@ -1,3 +1,5 @@
+// getting started, just printing
+
 package main
 
 import "fmt"

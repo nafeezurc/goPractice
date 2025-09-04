@@ -1,3 +1,5 @@
+// functions, returns, if-else and switch blocks
+
 package main
 
 import (
